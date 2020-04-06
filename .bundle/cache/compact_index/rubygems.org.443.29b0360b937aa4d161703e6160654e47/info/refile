@@ -1,0 +1,18 @@
+---
+0.2.2 |checksum:ec2a1a71583de79e2301a9061f7b638e88861c4d29891c86d2dff7baf949918a,ruby:>= 2.1.0
+0.2.3 |checksum:7e68d39c6aae310a75296251fdb737ec67114f543da2047cf0420bd7e5d9b1f3,ruby:>= 2.1.0
+0.2.4 |checksum:9c69452000c53eb20111af830e54a18e5810cdda7b667d0452629ca2e5dee11e,ruby:>= 2.1.0
+0.2.5 |checksum:2d892b42905216655d60fb68f478468da925be1805d459cf770bfa40f86096a7,ruby:>= 2.1.0
+0.3.0 rest-client:~> 1.7.2|checksum:fe67c697fc7224e3139c3a76d885dab2280c7a3aafcc73451339d9de99aaa5d0,ruby:>= 2.1.0
+0.4.0 mime-types:>= 0,rest-client:~> 1.7.2,sinatra:~> 1.4.5|checksum:8fa7467ee1129796e48d5f2efe656acb1abc22136dc1e4d1a3a78afe05a492d4,ruby:>= 2.1.0
+0.4.1 mime-types:>= 0,rest-client:~> 1.7.2,sinatra:~> 1.4.5|checksum:63b8702945f63e3357b48f626ed1d4a59286c8965ecf7fce1caaa5f38f5a89e9,ruby:>= 2.1.0
+0.4.2 mime-types:>= 0,rest-client:~> 1.7.2,sinatra:~> 1.4.5|checksum:735059f7261dbed6375ae0686316909f523a28dc1ba290f7552cd2da4ff04d54,ruby:>= 2.1.0
+0.5.0 mime-types:>= 0,sinatra:~> 1.4.5|checksum:133eea4ce58884c27538d4162dbf120a3e62307b93d1db5779e28afe6a57cf19,ruby:>= 2.1.0
+0.5.1 mime-types:>= 0,sinatra:~> 1.4.5|checksum:1cc7682b70f8399c15b019ee6f3442d709a46f382a72ea27b553e04334fba173,ruby:>= 2.1.0
+0.5.2 mime-types:>= 0,sinatra:~> 1.4.5|checksum:10c07c39fa9f76b2e99e7e022bf504dca753d5fa934b54fece31c89bb306d792,ruby:>= 2.1.0
+0.5.3 mime-types:>= 0,sinatra:~> 1.4.5|checksum:f49a9df7e9819ab495055b870a643d976ade5766f52b2c085cac128671c73b5a,ruby:>= 2.1.0
+0.5.4 mime-types:>= 0,rest-client:~> 1.7.2,sinatra:~> 1.4.5|checksum:dbc26827763c03676c22a1eb25cc1bf37e7c14c2b12c77f31f98d440ee4e0947,ruby:>= 2.1.0
+0.5.5 mime-types:>= 0,rest-client:~> 1.8,sinatra:~> 1.4.5|checksum:0ec33c613e79371b64c8de3257fa0c85ffdc2738b9b2895aab26157c273e5d57,ruby:>= 2.1.0
+0.6.0 mime-types:>= 0,rest-client:~> 1.8,sinatra:~> 1.4.5|checksum:5528de5313b58e1cd552a0edd66d915066a773dac07bc69a438cf41e7bcc73f1,ruby:>= 2.1.0
+0.6.1 mime-types:>= 0,rest-client:~> 1.8,sinatra:~> 1.4.5|checksum:1e897a4a2ae2e7fff832fa3ff9a73e46c50b65ee66a98728753820fce7c6153d,ruby:>= 2.1.0
+0.6.2 mime-types:>= 0,rest-client:~> 1.8,sinatra:~> 1.4.5|checksum:a258a915359d4b9571040cc289cc1466032bbde012a61adc7fb3d1ad8fb82b3e,ruby:>= 2.1.0
